@@ -11,9 +11,9 @@ if (!isset($_SESSION['usuario'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jersey Pro - Inicio</title>
-    <link rel="stylesheet" href="css/index.css">
-</head>
 <link rel="stylesheet" href="css/index.css">
+<!-- Eliminada la segunda carga de CSS innecesaria -->
+</head>
 
 <body>
 
